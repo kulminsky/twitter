@@ -1,0 +1,2 @@
+Java 17
+Gradle 8,7
